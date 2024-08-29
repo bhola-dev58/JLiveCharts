@@ -66,8 +66,8 @@ cd realtime-chat-java`
     </ul>
 
    <h2>Screenshots</h2>
-    <ul>
-        <li> https://github.com/Bhya23cse/Real-time-Charting-Box-Using-Java-Sockets/blob/main/src/pn.jpg?raw=true </li>
+    <ul type="None">
+        <li > <img src="https://github.com/Bhya23cse/Bhya23cse/blob/main/New_Banner_04.png"> </li>
     </ul>
 
   <h2>Possible Issues</h2>
