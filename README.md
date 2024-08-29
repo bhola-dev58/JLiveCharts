@@ -67,7 +67,7 @@ cd realtime-chat-java`
 
    <h2>Screenshots</h2>
     <ul>
-        <li>Add some screenshots here of the server and client running to give visitors an idea of how the application looks.</li>
+        <li> https://github.com/Bhya23cse/Real-time-Charting-Box-Using-Java-Sockets/blob/main/src/pn.jpg?raw=true </li>
     </ul>
 
   <h2>Possible Issues</h2>
