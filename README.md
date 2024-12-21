@@ -66,7 +66,7 @@ cd realtime-chat-java`
     </ul>
 
    <h2>Screenshots</h2>
-   <img align="" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/Home.png">
+   <img align="" src="https://github.com/Bhya23cse/Real-time-Charting-Box-Using-Java-Sockets/blob/main/src/pn.jpg">
  
 
   <h2>Possible Issues</h2>
