@@ -26,7 +26,7 @@ This is a simple real-time chat application built using Java with a server-clien
 
 ### 1. Clone the Repository
 `
-git clone https://github.com/Bhya23cse/realtime-chat-java.git
+git clone https://github.com/bhola-dev58/realtime-chat-java.git
 cd realtime-chat-java`
 
 
@@ -66,7 +66,7 @@ cd realtime-chat-java`
     </ul>
 
    <h2>Screenshots</h2>
-   <img align="" src="https://github.com/Bhya23cse/Real-time-Charting-Box-Using-Java-Sockets/blob/main/src/pn.jpg">
+   <img align="" src="https://github.com/bhola-dev58/Real-time-Charting-Box-Using-Java-Sockets/blob/main/src/pn.jpg">
  
 
   <h2>Possible Issues</h2>
