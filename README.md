@@ -26,7 +26,7 @@ This is a simple real-time chat application built using Java with a server-clien
 
 ### 1. Clone the Repository
 `
-git clone https://github.com/bhola-dev58/realtime-chat-java.git
+git clone https://github.com/bhola-dev58/JLiveCharts.git
 cd realtime-chat-java`
 
 
