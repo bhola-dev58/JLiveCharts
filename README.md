@@ -1,4 +1,4 @@
-# Real-time-Charting-Box-Using-Java-Sockets
+# Real-time-Chating-Box-Using-Java-Sockets
 
 
 This is a simple real-time chat application built using Java with a server-client architecture. The project consists of two parts:
